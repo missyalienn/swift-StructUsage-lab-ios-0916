@@ -11,7 +11,7 @@
 		5BAD02221D9EBAC600204B95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BAD02211D9EBAC600204B95 /* Assets.xcassets */; };
 		5BAD02251D9EBAC600204B95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BAD02231D9EBAC600204B95 /* LaunchScreen.storyboard */; };
 		5BAD02301D9EBAC700204B95 /* AdventureTimeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BAD022F1D9EBAC700204B95 /* AdventureTimeTests.swift */; };
-		F634355A1DA0558D00CB1732 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F63435591DA0558D00CB1732 /* Main.storyboard */; };
+		F63CF3E81DB4570600E7FF7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F63CF3E71DB4570600E7FF7F /* Main.storyboard */; };
 		F6AF9FA91DA04CCF003B5145 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AF9FA81DA04CCF003B5145 /* Character.swift */; };
 		F6AF9FAB1DA04CD9003B5145 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AF9FAA1DA04CD9003B5145 /* ViewController.swift */; };
 /* End PBXBuildFile section */
@@ -35,7 +35,7 @@
 		5BAD022B1D9EBAC700204B95 /* AdventureTimeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdventureTimeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BAD022F1D9EBAC700204B95 /* AdventureTimeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdventureTimeTests.swift; sourceTree = "<group>"; };
 		5BAD02311D9EBAC700204B95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F63435591DA0558D00CB1732 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../Main.storyboard; sourceTree = "<group>"; };
+		F63CF3E71DB4570600E7FF7F /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../Misc/Main.storyboard; sourceTree = "<group>"; };
 		F6AF9FA81DA04CCF003B5145 /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Character.swift; path = ../../../../Downloads/Character.swift; sourceTree = "<group>"; };
 		F6AF9FAA1DA04CD9003B5145 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = ../../../../Downloads/ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -92,7 +92,7 @@
 			children = (
 				F6AF9FA81DA04CCF003B5145 /* Character.swift */,
 				F6AF9FAA1DA04CD9003B5145 /* ViewController.swift */,
-				F63435591DA0558D00CB1732 /* Main.storyboard */,
+				F63CF3E71DB4570600E7FF7F /* Main.storyboard */,
 				5B81303A1D9EE14100460DDF /* Supporting Files */,
 			);
 			path = AdventureTime;
@@ -193,7 +193,7 @@
 			files = (
 				5BAD02251D9EBAC600204B95 /* LaunchScreen.storyboard in Resources */,
 				5BAD02221D9EBAC600204B95 /* Assets.xcassets in Resources */,
-				F634355A1DA0558D00CB1732 /* Main.storyboard in Resources */,
+				F63CF3E81DB4570600E7FF7F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
